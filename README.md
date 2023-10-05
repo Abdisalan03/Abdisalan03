@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Abdisalan</h1>
-<h3 align="center">A passionate full stack developer from Somalia</h3>
+<h3 align="center">A passionate Web developer | Digital marketing | Graphic Design  from Somalia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdisalan03&label=Profile%20views&color=0e75b6&style=flat" alt="abdisalan03" /> </p>
