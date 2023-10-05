@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Abdisalan</h1>
 <h3 align="center">A passionate full stack developer from Somalia</h3>
+<img align="right" alt="coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdisalan03&label=Profile%20views&color=0e75b6&style=flat" alt="abdisalan03" /> </p>
 
 - 💬 Ask me about **Full Stack**
-  
 
 - 📫 How to reach me **abdirahmanabdisalan935@gmail.com**
 
-- ⚡ Fun fact **I am Funny😂**
+- I am Funny😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdisalan03&show_icons=true&locale=en&layout=compact" alt="abdisalan03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdisalan03&show_icons=true&locale=en" alt="abdisalan03" /></p>
-
