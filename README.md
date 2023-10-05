@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdirahman Abdisalan</h1>
 <h3 align="center">A passionate full stack developer from Somalia</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdisalan03&label=Profile%20views&color=0e75b6&style=flat" alt="abdisalan03" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdisalan03" alt="abdisalan03" /></a> </p>
 
 - 💬 Ask me about **Full Stack**
 
@@ -20,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdisalan03&show_icons=true&locale=en&layout=compact" alt="abdisalan03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdisalan03&show_icons=true&locale=en" alt="abdisalan03" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdisalan03&" alt="abdisalan03" /></p>
+
